@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  <div>
+    <a href = "https://www.instagram.com/th_nandoh/" target="_blank"> <img src="https://www.flaticon.com/premium-icon/instagram_4138124" target="_blank"></a>
+ </div>
